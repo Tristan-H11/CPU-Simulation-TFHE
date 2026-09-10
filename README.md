@@ -1,4 +1,8 @@
-# CPU-Emulator
+# TFHE-CPU-Emulator, Leibniz Universität Hannover
+
+Dieses Projekt stellt das Funktionsmodell zu dem CPU-Modell zur Auswertung verschlüsselter Programme und Algorithmen aus [Rechnen mit Verschlüsselten Programmen und Daten]{https://edocs.tib.eu/files/e01dh12/731786696.pdf} von Dr. Michael Brenner.
+
+## Hinweis zum Lesen der technischen Angaben 
 
 Zur Lesbarkeit der Codeauszüge ist als Typ immer u8, statt FheUint8 angegeben und der Code ist leicht gekürzt.
 
